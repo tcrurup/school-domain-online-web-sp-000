@@ -8,8 +8,4 @@ class School
     @roster = {}
   end
   
-  def roster
-    
-  end
-  
 end
